@@ -1,6 +1,6 @@
 <!-- Header Banner or Illustration -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshitc/harshitc/main/assets/banner.gif" alt="Hi, I'm Harshit!" width="100%"/>
+  <img src="https://raw.githubusercontent.com/harshitc/harshitc/main/assets/banners.gif" alt="Hi, I'm Harshit!" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshit Chaturvedi</h1>
