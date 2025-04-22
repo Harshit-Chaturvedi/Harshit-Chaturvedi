@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitc&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitc&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 - 🧠 [ML-Based Student Score Predictor](https://github.com/harshitc/student-score-predictor)
