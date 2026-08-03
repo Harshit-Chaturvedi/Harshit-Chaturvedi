@@ -5,14 +5,6 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=650&lines=Building+GenAI%2C+RAG+Systems+%26+Full-Stack+Apps;Machine+Learning+%26+Predictive+Analytics+Developer;Python+%7C+FastAPI+%7C+Vue.js+%7C+LangChain+%7C+ChromaDB)](https://git.io/typing-svg)
 
-  <p align="center">
-    <a href="https://github.com/Harshit-Chaturvedi?tab=repositories">
-      <img src="https://img.shields.io/github/stars/Harshit-Chaturvedi?style=for-the-badge&color=7C5CFC&logo=github" alt="Stars"/>
-    </a>
-    <a href="https://github.com/Harshit-Chaturvedi">
-      <img src="https://img.shields.io/github/followers/Harshit-Chaturvedi?style=for-the-badge&color=C084FC&logo=github" alt="Followers"/>
-    </a>
-  </p>
 
 </div>
 
@@ -145,7 +137,7 @@ Motivated and detail-oriented developer experienced in building full-stack appli
   <a href="https://linkedin.com/in/harshit-chaturvedi-iitm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:harshitchaturvedi.dev@gmail.com" target="_blank">
+  <a href="mailto:harshit091102@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Harshit-Chaturvedi" target="_blank">
