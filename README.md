@@ -1,59 +1,123 @@
-<!-- Header Banner or Illustration -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshitc/harshitc/main/assets/banners.gif" alt="Hi, I'm Harshit!" width="100%"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Harshit Chaturvedi</h1>
-<h3 align="center">A Data Science undergrad at IIT Madras | Passionate about solving real-world problems with data 🧠📊</h3>
+  # Hi there, I'm Harshit Chaturvedi 👋
+  ### Data Science & AI Developer | IIT Madras '27 🎓
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&lines=Building+Intelligent+RAG+Systems+%26+AI+Apps;Data+Science+%26+Machine+Learning+Developer;IIT+Madras+BS+Degree+in+Data+Science;Exploring+LLMs%2C+Vector+Databases+%26+Full-Stack)](https://git.io/typing-svg)
+
+  <p align="center">
+    <a href="https://github.com/Harshit-Chaturvedi?tab=repositories">
+      <img src="https://img.shields.io/github/stars/Harshit-Chaturvedi?style=for-the-badge&color=7C5CFC&logo=github" alt="Stars"/>
+    </a>
+    <a href="https://github.com/Harshit-Chaturvedi">
+      <img src="https://img.shields.io/github/followers/Harshit-Chaturvedi?style=for-the-badge&color=C084FC&logo=github" alt="Followers"/>
+    </a>
+  </p>
+
+</div>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Currently pursuing **BSc in Programming & Data Science** from **IIT Madras**
-- 🔬 Exploring: Machine Learning | Web Dev with Python | Data Engineering
-- 📈 Love to: Build Projects, Analyze Data & Visualize Insights
-- 🛠️ Tools I use: Jupyter | VS Code | Git | Flask | Pandas | SQL
-- ⚡ Fun fact: I once automated a task just to avoid doing it twice 😄
+- 🎓 Pursuing **BS in Data Science & Applications** at **IIT Madras**
+- 🤖 Specialized in **Retrieval-Augmented Generation (RAG)**, **LLMs**, and **Vector Search Engine Architecture**
+- 🛠️ Currently building **[Cortex](https://github.com/Harshit-Chaturvedi/cortex)** — a fault-tolerant multi-provider RAG engine with ChromaDB & FastAPI
+- 💡 Passionate about building high-performance AI tools, data pipelines, and sleek web interfaces
+- ⚡ **Fun Fact:** I automate tedious manual work so I can spend more time building cool software!
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 💻 Tech Stack & Capabilities
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+<div align="center">
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Python` `JavaScript` `SQL` `HTML5` `CSS3` |
+| **AI / ML / RAG** | `LangChain` `Ragas` `ChromaDB` `Sentence-Transformers` `OpenAI API` `Groq` `Gemini` `HuggingFace` |
+| **Data & Analytics** | `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn` |
+| **Web & Backend** | `FastAPI` `Flask` `Uvicorn` `REST APIs` `HTML/Vanilla CSS/JS` |
+| **DevOps & Tools** | `Git` `GitHub` `Docker` `VS Code` `Jupyter Notebooks` |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,fastapi,flask,postgres,sqlite,git,docker,vscode,html,css&perline=6" />
+</div>
 
 ---
 
 ### 📌 Featured Projects
 
-- 🧠 [ML-Based Student Score Predictor](https://github.com/harshitc/student-score-predictor)
-- 📊 [EDA on COVID-19 Global Dataset](https://github.com/harshitc/covid19-data-analysis)
-- 🛠 [Household Services Web App](https://github.com/harshitc/household-services-v2)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 <a href="https://github.com/Harshit-Chaturvedi/cortex">Cortex — Multi-Provider RAG Engine</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ChromaDB-7C5CFC?style=flat-square"/>
+      </p>
+      <ul>
+        <li>A fault-tolerant <b>Retrieval-Augmented Generation (RAG)</b> Q&A system.</li>
+        <li><b>Auto-Failover Chain:</b> Groq → Gemini → HuggingFace → OpenAI.</li>
+        <li>Sub-4s warm latency, automated Ragas eval (<b>1.0 Context Precision</b>).</li>
+        <li>Includes a sleek modern dark UI with live source citations & PDF/TXT upload.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Data Science & Web Apps</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      </p>
+      <ul>
+        <li><b>ML Student Score Predictor:</b> Predictive machine learning models using Scikit-Learn.</li>
+        <li><b>Exploratory Data Analysis:</b> Data cleaning, statistical insights & visualization pipelines.</li>
+        <li><b>Full-Stack Web Applications:</b> Python backends with interactive modern UIs.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Connect with Me
+### 📊 GitHub Activity & Stats
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <br/>
+  <a href="https://github.com/Harshit-Chaturvedi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshit-Chaturvedi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Chaturvedi&layout=compact&theme=tokyonight&hide=html,css" />
   </a>
-  <a href="mailto:yourname@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <br/><br/>
+  <a href="https://github.com/Harshit-Chaturvedi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Chaturvedi&theme=tokyonight" alt="GitHub Streak" />
   </a>
-  <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshitc&style=flat-square&color=blue" alt="profile views" />
-</p>
+### 🌐 Connect & Collaborate
+
+<div align="center">
+  <a href="https://github.com/Harshit-Chaturvedi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/harshit-chaturvedi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshitchaturvedi.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshit-Chaturvedi&style=flat-square&color=7C5CFC" alt="Profile Views" />
+</div>
