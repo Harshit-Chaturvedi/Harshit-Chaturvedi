@@ -1,9 +1,9 @@
 <div align="center">
 
   # Hi there, I'm Harshit Chaturvedi 👋
-  ### Data Science & AI Developer | IIT Madras 🎓
+  ### Data Science & AI Developer
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=650&lines=BS+in+Data+Science+%26+Applications+%40+IIT+Madras;Building+GenAI%2C+RAG+Systems+%26+Full-Stack+Apps;Machine+Learning+%26+Predictive+Analytics+Developer;Python+%7C+FastAPI+%7C+Vue.js+%7C+LangChain+%7C+ChromaDB)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=650&lines=Building+GenAI%2C+RAG+Systems+%26+Full-Stack+Apps;Machine+Learning+%26+Predictive+Analytics+Developer;Python+%7C+FastAPI+%7C+Vue.js+%7C+LangChain+%7C+ChromaDB)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://github.com/Harshit-Chaturvedi?tab=repositories">
@@ -20,13 +20,10 @@
 
 ### 🚀 About Me
 
-Motivated and detail-oriented undergraduate at the **Indian Institute of Technology, Madras**. Experienced in building full-stack applications, machine learning models, and GenAI/RAG architectures.
+Motivated and detail-oriented developer experienced in building full-stack applications, machine learning models, and GenAI/RAG architectures.
 
-- 🎓 **Education:**
-  - **Indian Institute of Technology, Madras** — BS in Data Science and Applications *(Jan 2023 – Present)*
-  - **Mansarovar Global University, Bhopal** — BSc in Mathematics *(Aug 2020 – May 2023)*
-  - **Birla Shiksha Kendra, Chittorgarh** — PCM *(April 2019 – March 2020)*
 - 🔬 **Focus Areas:** GenAI & LLM Systems, Machine Learning Pipelines, Vector Databases, Full-Stack Web Development
+- 💡 **Passionate about:** Solving real-world problems using data-driven approaches and building efficient software solutions.
 - ⚡ **Fun Fact:** I once automated a task just to avoid doing it twice! 😄
 
 ---
@@ -131,17 +128,12 @@ Motivated and detail-oriented undergraduate at the **Indian Institute of Technol
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contributions
 
 <div align="center">
   <br/>
   <a href="https://github.com/Harshit-Chaturvedi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshit-Chaturvedi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Chaturvedi&layout=compact&theme=tokyonight&hide=html,css" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Harshit-Chaturvedi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Chaturvedi&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://ghchart.rshah.org/7C5CFC/Harshit-Chaturvedi" alt="Harshit's GitHub Contributions Chart" width="100%" />
   </a>
 </div>
 
@@ -153,8 +145,8 @@ Motivated and detail-oriented undergraduate at the **Indian Institute of Technol
   <a href="https://linkedin.com/in/harshit-chaturvedi-iitm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:23f1001839@ds.study.iitm.ac.in" target="_blank">
-    <img src="https://img.shields.io/badge/IITM_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:harshitchaturvedi.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Harshit-Chaturvedi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
